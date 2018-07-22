@@ -6,14 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Example site Markdown
 
-```markdown
-Syntax highlighted code block
+This is sample read me file for my github Example repository. Learning markdown.
 
-# Header 1
-## Header 2
-### Header 3
+* This is an example site.
+* markdown testing
+* lets see if it works
 
 - Bulleted
 - List

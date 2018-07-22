@@ -14,11 +14,9 @@ This is sample read me file for my github Example repository. Learning markdown.
 * markdown testing
 * lets see if it works
 
-- Bulleted
-- List
+## Link Example
 
-1. Numbered
-2. List
+[CodeTime](http://www.codetime.io)
 
 **Bold** and _Italic_ and `Code` text
 

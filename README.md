@@ -18,10 +18,11 @@ This is sample read me file for my github Example repository. Learning markdown.
 
 [CodeTime](http://www.codetime.io)
 
-**Bold** and _Italic_ and `Code` text
+1. Item one
+2. Item two
+3. Item three
 
-[Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

@@ -13,7 +13,7 @@ Ruby code `puts 'Hello World'`
 
 Enterprice Armin
 ================
-Powerfull software
+Powerfull software [Feedback](https://github.com/armin2pa/Armand-Kuplaste/tree/master/.github/ISSUE_TEMPLATE)
 ------------------
 ### Welcome to repository
 

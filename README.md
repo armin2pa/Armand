@@ -13,7 +13,7 @@ Ruby code `puts 'Hello World'`
 
 Enterprice Armin
 ================
-Powerfull software [Feedback](https://github.com/armin2pa/Armand-Kuplaste/tree/master/.github/ISSUE_TEMPLATE)
+Powerfull software [Feedback](https://google.com)
 ------------------
 ### Welcome to repository
 
@@ -23,8 +23,8 @@ Feel free to access [My portfolio](http://armin2pa.github.io/test-repo/)
 
 ### Markdown
 ---
-name: Feature Request
-about: Suggest an idea
+name: *Feature Request*
+
 
 ---
 
@@ -39,19 +39,19 @@ This is sample read me file for my github Example repository. Learning markdown.
 ## Link Example
 
 [CodeTime](http://www.codetime.io)
-
+---
 1. Item one
 2. Item two
 3. Item three
 
 
-
+---
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/armin2pa/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [Listen and watch search](https://youtube.com). The name of this 
+===
 ### Support or Contact
-
+===
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

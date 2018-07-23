@@ -22,7 +22,7 @@ Feel free to access [My portfolio](http://armin2pa.github.io/test-repo/)
 > **Accer to my test repo** click on it
 
 ### Markdown
-![20180720_151355](https://user-images.githubusercontent.com/40921746/43052870-5e00882c-8df7-11e8-8802-21e1ba07e130.jpg)
+
 
 # Example site Markdown
 

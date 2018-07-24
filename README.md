@@ -23,7 +23,7 @@ Feel free to access [My portfolio](http://armin2pa.github.io/test-repo/)
 ===
 Tutorial on making files executable windows
 ===
-[ Python reverse shell tutorial ](http://youtu.be/fOMpQz1ryXQ)
+[ Python reverse shell tutorial ](http://youtu.be/fOMpQz1ryXQ) !!! under construction
 
 ### Markdown
 ---

@@ -24,8 +24,8 @@ Feel free to access [My portfolio](http://armin2pa.github.io/test-repo/)
 ===
 Tutorial on making files executable windows
 ===
-
-
+[issues](https://github.com/armin2pa/Armand/tree/master/.github/ISSUE_TEMPLATE)
++++
 ### Markdown
 ---
 name: *Feature Request*

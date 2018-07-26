@@ -5,7 +5,7 @@
 3. Preformance
 
 Ruby code `puts 'Hello World'`
-[azure notebook](http://www.Notebook.Azure.Com)
+[azure notebook](http://www.NotebookS.Azure.Com)
 ### Crazy good software
 * Rapid development
 + Tested

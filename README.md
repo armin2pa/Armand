@@ -10,6 +10,7 @@ Ruby code `puts 'Hello World'`
 * Rapid development
 + Tested
 - 24/7 support
+![picture_20184722064712](https://user-images.githubusercontent.com/40921746/43234798-43136672-904c-11e8-87a8-4c2350e49ea7.jpg)
 
 Enterprice Armin
 ================

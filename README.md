@@ -1,11 +1,11 @@
 ![20180720_151355](https://user-images.githubusercontent.com/40921746/43052870-5e00882c-8df7-11e8-8802-21e1ba07e130.jpg)
-## Welcome to GitHub Pages
+## Welcome to Armand pages.
 1. Price
 2. Precision
 3. Preformance
 
 Ruby code `puts 'Hello World'`
-
+[azure notebook](http://www.Notebook.Azure.Com)
 ### Crazy good software
 * Rapid development
 + Tested
@@ -13,17 +13,17 @@ Ruby code `puts 'Hello World'`
 
 Enterprice Armin
 ================
-Powerfull software [Feedback](https://google.com)
+Powerfull software [Search engine](https://google.com)
 ------------------
 ### Welcome to repository
 
 Feel free to access [My portfolio](http://armin2pa.github.io/test-repo/)
-> *Accer to my test repo* click on it
+> 
 > **Accer to my test repo** click on it
 ===
 Tutorial on making files executable windows
 ===
-[ Python reverse shell tutorial ](http://youtu.be/fOMpQz1ryXQ) !!! under construction
+
 
 ### Markdown
 ---

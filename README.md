@@ -46,7 +46,7 @@ This is sample read me file for my github Example repository. Learning markdown.
 *    lets see if it works
 
 ## Link Example
-[s](file:///home/armand/Desktop/notebookpro/build/codef/xref-codef.html)
+
 
 ---
 1. Item one

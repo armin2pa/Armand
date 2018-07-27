@@ -1,4 +1,4 @@
-![20180720_151355](https://user-images.githubusercontent.com/40921746/43052870-5e00882c-8df7-11e8-8802-21e1ba07e130.jpg)
+file:///home/armand/Desktop/notebookpro/build/codef/xref-codef.html![20180720_151355](https://user-images.githubusercontent.com/40921746/43052870-5e00882c-8df7-11e8-8802-21e1ba07e130.jpg)
 ## Welcome to Armand pages.                    ================
                                                       Powerfull software [Search engine](https://google.com)
 ------------------
@@ -46,7 +46,7 @@ This is sample read me file for my github Example repository. Learning markdown.
 *    lets see if it works
 
 ## Link Example
-
+[s](file:///home/armand/Desktop/notebookpro/build/codef/xref-codef.html)
 
 ---
 1. Item one
